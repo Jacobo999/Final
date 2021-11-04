@@ -1,0 +1,81 @@
+.grande{
+	height: 640px;
+	width: 1340px;
+	background: lightskyblue;
+	font-family: Segoe Print;
+	font-size: 40px;
+}
+.algoritmo{
+	height: 560px;
+	width: 500px;
+	background-size: cover;
+	background-image: url(algoritmo.png);
+	position: absolute;
+	left:15px;
+}
+.ejecucion{
+	height: 100px;
+	width: 100px;
+	background: white;
+	position: absolute;
+	left: 540px;
+	top: 100px;
+	font-size: 20px;
+	box-sizing: border-box;
+	padding-top: 25px;
+	padding-left: 2px;
+}
+.prueba{
+	height: 100px;
+	width: 100px;
+	background: white;
+	position: absolute;
+	left: 540px;
+	top: 500px;
+	font-size: 20px;
+	box-sizing: border-box;
+	padding-top: 0px;
+	padding-left: 2px;
+}
+.quitar{
+	height: 100px;
+	width: 100px;
+	background: white;
+	position: absolute;
+	left: 540px;
+	top: 300px;
+	font-size: 20px;
+	box-sizing: border-box;
+	padding-top: 30px;
+	padding-left: 12px;
+}
+.galeria{
+	height: 560px;
+	width: 670px;
+	background: white;
+	position: absolute;
+	left: 670px;
+	background: white;
+	box-sizing: border-box;
+	padding-top: 240px;
+	padding-left: 140px;
+}
+.e{
+	height: 560px;
+	width: 670px;
+	background: white;
+	position: absolute;
+	left: 670px;
+	background-image: url(ejecucion.png);
+	display: none;
+}
+.p{
+	height: 560px;
+	width: 670px;
+	background: white;
+	position: absolute;
+	left: 670px;
+	background-size: covntain;
+	background-image: url(prueba.png);
+	display: none;
+}
